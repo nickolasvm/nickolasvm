@@ -6,12 +6,11 @@ Currently studying web development at Trybe, a programming school with a teachin
 
 ### Competencies 📚
 
-
-<a href="https://www.mongodb.com/">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
 <a href="https://www.mysql.com/">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+<a href="https://www.mongodb.com/">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 <br />
 <a href="https://www.python.org/">
@@ -24,30 +23,30 @@ Currently studying web development at Trybe, a programming school with a teachin
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </a>
 <br />
-<a href="https://nodejs.org/en">
-  <img alt="Nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</a>
-<a href="https://expressjs.com/">
-  <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<a href="https://sequelize.org/">
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 </a>
 <a href="https://www.typescriptlang.org/">
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
-<a href="https://sequelize.org/">
-  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+<a href="https://nodejs.org/en">
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </a>
 <a href="https://mochajs.org/">
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
 </a>
-<br />
-<a href="https://react.dev/">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<a href="https://expressjs.com/">
+  <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </a>
+<br />
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+<a href="https://react.dev/">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
